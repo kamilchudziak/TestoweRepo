@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "datamodels", "datamodels\datamodels.dwproj", "{CA7BED2E-3EB2-4C6D-8A82-980B9782B3D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA7BED2E-3EB2-4C6D-8A82-980B9782B3D3}.Development|Default.ActiveCfg = Development
+		{CA7BED2E-3EB2-4C6D-8A82-980B9782B3D3}.Development|Default.Build.0 = Development
+		{CA7BED2E-3EB2-4C6D-8A82-980B9782B3D3}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {392F7500-F8F2-4029-AB91-790A0866208C}
+	EndGlobalSection
+EndGlobal
