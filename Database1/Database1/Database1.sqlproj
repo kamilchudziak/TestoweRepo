@@ -105,6 +105,5 @@
     <Build Include="dbo\Stored Procedures\P_FactStrategyPlan.sql" />
     <Build Include="dbo\Stored Procedures\P_FactSalesQuota.sql" />
     <Build Include="Security\olap.sql" />
-    <Build Include="dbo\Tables\nowa.sql" />
   </ItemGroup>
 </Project>
